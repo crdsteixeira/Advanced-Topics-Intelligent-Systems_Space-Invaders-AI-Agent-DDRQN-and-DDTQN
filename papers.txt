@@ -1,0 +1,59 @@
+Title: Deep Reinforcement Learning to play Space Invaders
+Link: https://nihit.github.io/resources/spaceinvaders.pdf
+Type: Paper
+
+Title: Frame Skipping and Pre-Processing for Deep Q-Networks on Atari 2600 Games
+Link: https://danieltakeshi.github.io/2016/11/25/frame-skipping-and-preprocessing-for-deep-q-networks-on-atari-2600-games/
+Type: Blog Post
+
+Title: GuarDiqN: Playing Space Invader with Dueling Double Deep Q-Network
+Link: https://github.com/lychengrex/Playing-Space-Invaders-with-Deep-Q-Networks/tree/master
+Type: Source Code
+
+Title: Improving the DQN algorithm using Double Q-Learning
+Link: https://davidrpugh.github.io/stochastic-expatriate-descent/pytorch/deep-reinforcement-learning/deep-q-networks/2020/04/11/double-dqn.html
+Type: Blog Post
+
+Title: Double Q-learning
+Link: https://proceedings.neurips.cc/paper_files/paper/2010/file/091d584fced301b442654dd8c23b3fc9-Paper.pdf
+Type: Paper
+
+Title: Deep reinforcement learning with pixel features in Atari Pong Game
+Link: https://github.com/gznyyb/deep_reinforcement_learning_Pong/tree/master
+Type: Source Code
+
+Title: TRAIN A MARIO-PLAYING RL AGENT
+Link: https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html
+Type: Blog Post
+
+Title: Playing Super Mario Bros with Deep Reinforcement Learning
+Link: https://www.analyticsvidhya.com/blog/2021/06/playing-super-mario-bros-with-deep-reinforcement-learning/
+Type: Blog Post
+
+Title: Deep Reinforcement Learning with Space Invaders… Literally from scratch
+Link: https://yaassinekaddi.medium.com/deep-reinforcement-learning-with-space-invaders-literally-from-scratch-part-i-10905fe04846
+Type: Blog Post
+
+Title: Asynchronous Methods for Deep Reinforcement Learning
+Link: https://arxiv.org/pdf/1602.01783.pdf
+Type: Paper
+
+Title: Reinforcement-Learning-Atari-Games
+Link: https://github.com/NitishMutha/Reinforcement-Learning-Atari-Games/tree/master
+Type: Source Code
+
+Title: Practical Reinforcement Learning — 02 Getting started with Q-learning
+Link: https://towardsdatascience.com/practical-reinforcement-learning-02-getting-started-with-q-learning-582f63e4acd9
+Type: Blog Post
+
+Title: Playing Atari with Deep Reinforcement Learning
+Link: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+Type: Paper
+
+Title: RL
+Link: https://github.com/msachin93/RL
+Type: Source Code
+
+Title: Space Invaders challenge: a Reinforcement Learning competition
+Link: https://wandb.ai/raghmura/qualcomm/reports/Space-Invaders-challenge-a-Reinforcement-Learning-competition--Vmlldzo5MzEzMg
+Type: Blog Post
