@@ -2,7 +2,7 @@
 
 ## Master's in Data Science and Engineering - Advanced Topics of Inteligent Systems
 
-Author: Cátia Teixeira 
+Author: [Cátia Teixeira](https://github.com/crdsteixeira)
 
 
 ### Description
@@ -53,3 +53,7 @@ possible actions are as follows:
 1. Open main_1.ipynb  and run all cells to try the DDRQN model
 2. Open main_2.ipynb  and run all cells to try the DDTQN model
 3. Open main_3.ipynb  and run all cells to try the reandom agent
+
+### Credits
+
+[Lee Robinson](https://github.com/leerob) for Space Invaders souce code, and other referrenced authors.
