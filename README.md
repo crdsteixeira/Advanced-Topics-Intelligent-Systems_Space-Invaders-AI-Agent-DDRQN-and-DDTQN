@@ -1,4 +1,4 @@
-# Space Invaders: A journey through the path of Atari's Games with Reinforcement Learnig
+# Space Invaders: A journey through the path of Atari's Games with Reinforcement Learning
 
 ## Master's in Data Science and Engineering - Advanced Topics of Inteligent Systems
 
