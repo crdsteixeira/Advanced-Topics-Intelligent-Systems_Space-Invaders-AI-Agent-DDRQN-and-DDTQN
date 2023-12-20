@@ -15,6 +15,12 @@ The work also includes conclusions from initial trials with several parameters v
 achieved slightly better performance, but overall both agents evolution are very similar. 
 Improvements to the network and memory depth of the agent were crucial in achieving these results.
 
+<p align='center'>
+<img src="http://i.imgur.com/mR81p5O.png" width="300" height="240"/>
+</p>
+
+
+
 - **Observation space:** The observation space consists of a sequence of encoded features extracted from raw frames using a CNN. Each frame passes through the CNN to produce a set of high-level features that represent the visual information
 captured in that frame. These feature vectors then form a series of observations that serve as input.
 
