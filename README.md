@@ -52,7 +52,7 @@ possible actions are as follows:
 0. All main files import game_v2.py and segment_tree.py
 1. Open main_1.ipynb  and run all cells to try the DDRQN model
 2. Open main_2.ipynb  and run all cells to try the DDTQN model
-3. Open main_3.ipynb  and run all cells to try the reandom agent
+3. Open main_3.ipynb  and run all cells to try the random agent
 
 ### Credits
 
