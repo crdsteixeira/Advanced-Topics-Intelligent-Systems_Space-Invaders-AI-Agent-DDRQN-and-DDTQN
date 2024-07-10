@@ -1,5 +1,7 @@
 # Space Invaders: A journey through the path of Atari's Games with Reinforcement Learning
 
+![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green)
+
 ## Master's in Data Science and Engineering | Advanced Topics of Inteligent Systems
 
 Author: [Cátia Teixeira](https://github.com/crdsteixeira)
